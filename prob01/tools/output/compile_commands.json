@@ -1,0 +1,7 @@
+[
+ {
+ "directory" : "/home/vesper/cpsc121/lab-ex04-Vesper13154/prob01",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/vesper/cpsc121/lab-ex04-Vesper13154/prob01/main.cc"
+ },
+]
